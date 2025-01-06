@@ -1,0 +1,17 @@
+abstract: testing github publishing jan 2025
+authors:
+- affiliation: Arizona State University
+  email: comsesadmin@mailinator.com
+  family-names: User
+  given-names: Admin
+cff-version: 1.2.0
+date-released: '2025-01-06'
+identifiers:
+- type: url
+  value: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/2.2.2/
+license: MIT
+message: If you use this software, please cite it using the metadata from this file.
+title: Development of coral reefs under climate change impacts and adaptation options
+type: software
+url: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/2.2.2/
+version: 2.2.2
