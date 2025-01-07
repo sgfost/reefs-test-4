@@ -11,10 +11,10 @@ cff-version: 1.2.0
 date-released: '2025-01-07'
 identifiers:
 - type: url
-  value: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/5.0.0/
+  value: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/7.7.7/
 license: MIT
 message: If you use this software, please cite it using the metadata from this file.
 title: Development of coral reefs under climate change impacts and adaptation options
 type: software
-url: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/5.0.0/
-version: 5.0.0
+url: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/7.7.7/
+version: 7.7.7
