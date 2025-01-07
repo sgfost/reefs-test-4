@@ -1,6 +1,6 @@
 {
-  "@id": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/3.9.9/",
-  "url": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/3.9.9/",
+  "@id": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/5.0.0/",
+  "url": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/5.0.0/",
   "name": "Development of coral reefs under climate change impacts and adaptation options",
   "@type": "SoftwareSourceCode",
   "author": [
@@ -41,7 +41,7 @@
     "name": "MIT",
     "@type": "CreativeWork"
   },
-  "version": "3.9.9",
+  "version": "5.0.0",
   "@context": "https://w3id.org/codemeta/3.0",
   "publisher": {
     "@id": "https://ror.org/015bsfc29",
@@ -49,12 +49,12 @@
     "name": "CoMSES Net",
     "@type": "Organization"
   },
-  "identifier": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/3.9.9/",
+  "identifier": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/5.0.0/",
   "dateCreated": "2025-01-07",
   "description": "testing github publishing jan 2025",
-  "downloadUrl": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/3.9.9/download/",
+  "downloadUrl": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/5.0.0/download/",
   "dateModified": "2025-06-03",
-  "releaseNotes": "remote R code and put in Vue code",
+  "releaseNotes": "should have a publish date",
   "copyrightYear": 2025,
   "datePublished": "2025-01-07",
   "operatingSystem": "platform_independent",
