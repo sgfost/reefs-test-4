@@ -1,6 +1,6 @@
 {
-  "@id": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/2.2.2/",
-  "url": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/2.2.2/",
+  "@id": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/3.0.0/",
+  "url": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/3.0.0/",
   "name": "Development of coral reefs under climate change impacts and adaptation options",
   "@type": "SoftwareSourceCode",
   "author": [
@@ -19,9 +19,21 @@
       }
     },
     {
+      "@id": "http://localhost:8000/users/3326/",
+      "@type": "Person",
+      "email": "comsestestuser@mailinator.com",
+      "givenName": "Test",
+      "familyName": "User"
+    },
+    {
       "@id": "http://localhost:8000/users/3325/",
       "@type": "Role",
       "roleName": "funder"
+    },
+    {
+      "@id": "http://localhost:8000/users/3326/",
+      "@type": "Role",
+      "roleName": "maintainer"
     }
   ],
   "license": {
@@ -29,7 +41,7 @@
     "name": "MIT",
     "@type": "CreativeWork"
   },
-  "version": "2.2.2",
+  "version": "3.0.0",
   "@context": "https://w3id.org/codemeta/3.0",
   "publisher": {
     "@id": "https://ror.org/015bsfc29",
@@ -37,14 +49,14 @@
     "name": "CoMSES Net",
     "@type": "Organization"
   },
-  "identifier": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/2.2.2/",
-  "dateCreated": "2025-01-06",
+  "identifier": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/3.0.0/",
+  "dateCreated": "2025-01-07",
   "description": "testing github publishing jan 2025",
-  "downloadUrl": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/2.2.2/download/",
+  "downloadUrl": "http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/3.0.0/download/",
   "dateModified": "2025-06-03",
-  "releaseNotes": "changing the release notes to see if the release branch gets updated..........................",
+  "releaseNotes": "add tournament.R",
   "copyrightYear": 2025,
-  "datePublished": "2025-01-06",
+  "datePublished": "2025-01-07",
   "operatingSystem": "platform_independent",
   "runtimePlatform": [
     "css"
@@ -53,6 +65,10 @@
   "programmingLanguage": [
     {
       "name": "html",
+      "@type": "ComputerLanguage"
+    },
+    {
+      "name": "r",
       "@type": "ComputerLanguage"
     }
   ]
