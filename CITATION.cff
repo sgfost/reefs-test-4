@@ -4,17 +4,14 @@ authors:
   email: comsesadmin@mailinator.com
   family-names: User
   given-names: Admin
-- email: comsestestuser@mailinator.com
-  family-names: User
-  given-names: Test
 cff-version: 1.2.0
 date-released: '2025-01-07'
 identifiers:
 - type: url
-  value: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/9.9.9/
-license: MIT
+  value: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/10.0.0/
+license: GPL-2.0
 message: If you use this software, please cite it using the metadata from this file.
 title: Development of coral reefs under climate change impacts and adaptation options
 type: software
-url: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/9.9.9/
-version: 9.9.9
+url: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/10.0.0/
+version: 10.0.0
