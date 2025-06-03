@@ -4,14 +4,27 @@ authors:
   email: comsesadmin@mailinator.com
   family-names: User
   given-names: Admin
+- email: comsestestuser@mailinator.com
+  family-names: User
+  given-names: Test
+- email: ahjsdfhjajshdkf@example.com
+  family-names: asdfasdfasdf
+  given-names: asdfasdf
+- email: wdwdwdwdwd@example.com
+  family-names: zzzzzz
+  given-names: wwwwwwwww
+- email: asdasd@example.com
+  family-names: wwwwwddddd
+  given-names: awdawdawd
+- email: asda@example.com
+  family-names: zzzzzzzzzzzzzzz
+  given-names: wwwwwwww
 cff-version: 1.2.0
-date-released: '2025-01-07'
-identifiers:
-- type: url
-  value: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/10.0.0/
+date-released: '2025-06-03'
+doi: 10.239823/sdkje-jdf
 license: GPL-2.0
 message: If you use this software, please cite it using the metadata from this file.
 title: Development of coral reefs under climate change impacts and adaptation options
 type: software
-url: http://localhost:8000/codebases/33abc5db-781e-443f-8df4-fdcd88e8fdf9/releases/10.0.0/
-version: 10.0.0
+url: https://doi.org/10.239823/sdkje-jdf
+version: 10.1.0
