@@ -2,6 +2,7 @@
   <div class="backdrop d-flex justify-content-center align-items-center">
     <b-container class="h-100 solo-dashboard-container content-container p-0" no-gutters>
       <Splash v-if="!started" @begin="begin" />
+      
       <GameOver
         v-else-if="isGameOver"
         :status="state.status"
@@ -9,6 +10,7 @@
         :round="state.round"
         @continue="handleContinue"
       />
+      
       <Dashboard v-else :state="state" />
     </b-container>
   </div>
